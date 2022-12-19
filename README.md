@@ -1,6 +1,6 @@
 ## An-Image-Censoring-System-on-Real-Time-Bidding
-## Source image to make up the dataset from links of images provided by that company
 ## Dataset created using OLDv4 toolkit [link](https://github.com/EscVM/OIDv4_ToolKit)
+Source image to make up the dataset from links of images provided by that company, and retrieved using the crawler ipynb
 ## Dataset and code are property of the company employed us, so no code or dataset here :(
 ## Description
 An image filtering system for a real-time bidding website based on YOLO-v3 object detection algorithm.
