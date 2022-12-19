@@ -1,4 +1,4 @@
-## An-Image-Censoring-System-on-Real-Time-Bidding, Dataset and code are property of the company employed us, so no code or dataset here :( Only the crawler code and graduation thesis
+## An-Image-Censoring-System-on-Real-Time-Bidding, Dataset and code are property of the company employed us, so no code or dataset here :( Only the crawler code and graduation thesis here
 ## Dataset created using OLDv4 toolkit [link](https://github.com/EscVM/OIDv4_ToolKit)
 Source image to make up the dataset from links of images provided by that company, and retrieved using the crawler ipynb
 ## Description
